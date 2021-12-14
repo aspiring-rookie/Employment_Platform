@@ -1,0 +1,80 @@
+package com.zyh.entity;
+
+import javax.validation.constraints.NotNull;
+import org.hibernate.validator.constraints.Length;
+import com.zyh.utils.Entity;
+import java.util.Date;
+
+
+/**
+ * 
+ * @author 596183363@qq.com
+ * @time 2021-03-22 17:04:24
+ */
+public class Post extends Entity{
+
+	/**
+	 * 
+	 */
+	private Integer id;
+	/**
+	 * 
+	 */
+	@Length(max = 100)
+	private String name;
+	/**
+	 * 
+	 */
+	@Length(max = 100)
+	private String education;
+	/**
+	 * 
+	 */
+	@Length(max = 100)
+	private String salary;
+	/**
+	 * 
+	 */
+	private String description;
+	/**
+	 * 
+	 */
+	private Integer companyId;
+
+	public Integer getId() {
+		return id;
+	}
+	public void setId(Integer id) {
+		this.id = id;
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public String getEducation() {
+		return education;
+	}
+	public void setEducation(String education) {
+		this.education = education;
+	}
+	public String getSalary() {
+		return salary;
+	}
+	public void setSalary(String salary) {
+		this.salary = salary;
+	}
+	public String getDescription() {
+		return description;
+	}
+	public void setDescription(String description) {
+		this.description = description;
+	}
+	public Integer getCompanyId() {
+		return companyId;
+	}
+	public void setCompanyId(Integer companyId) {
+		this.companyId = companyId;
+	}
+}

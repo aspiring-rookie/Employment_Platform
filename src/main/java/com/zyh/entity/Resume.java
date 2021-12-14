@@ -1,0 +1,91 @@
+package com.zyh.entity;
+
+import javax.validation.constraints.NotNull;
+import org.hibernate.validator.constraints.Length;
+import com.zyh.utils.Entity;
+import java.util.Date;
+
+
+/**
+ * 
+ * @author 596183363@qq.com
+ * @time 2021-03-22 17:04:24
+ */
+public class Resume extends Entity{
+
+	/**
+	 * 
+	 */
+	private Integer id;
+	/**
+	 * 
+	 */
+	@Length(max = 100)
+	private String name;
+	/**
+	 * 
+	 */
+	@Length(max = 100)
+	private String jobStatus;
+	/**
+	 * 
+	 */
+	@Length(max = 100)
+	private String evaluate;
+	/**
+	 * 
+	 */
+	@Length(max = 100)
+	private String skill;
+	/**
+	 * 
+	 */
+	private Integer studentId;
+	/**
+	 * 0关闭|1开放
+	 */
+	private Integer status;
+
+	public Integer getId() {
+		return id;
+	}
+	public void setId(Integer id) {
+		this.id = id;
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public String getJobStatus() {
+		return jobStatus;
+	}
+	public void setJobStatus(String jobStatus) {
+		this.jobStatus = jobStatus;
+	}
+	public String getEvaluate() {
+		return evaluate;
+	}
+	public void setEvaluate(String evaluate) {
+		this.evaluate = evaluate;
+	}
+	public String getSkill() {
+		return skill;
+	}
+	public void setSkill(String skill) {
+		this.skill = skill;
+	}
+	public Integer getStudentId() {
+		return studentId;
+	}
+	public void setStudentId(Integer studentId) {
+		this.studentId = studentId;
+	}
+	public Integer getStatus() {
+		return status;
+	}
+	public void setStatus(Integer status) {
+		this.status = status;
+	}
+}

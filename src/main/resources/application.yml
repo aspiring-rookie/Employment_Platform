@@ -1,0 +1,47 @@
+
+Spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/job?serverTimezone=GMT%2B8
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: meizi
+  redis:
+    host: localhost
+    port: 6379
+    database: 0
+    password:
+    lettuce:
+      pool:
+        max-active: 10
+        min-idle: 0
+        max-wait: -1ms
+        max-idle: 8
+  jackson:
+    date-format: yyyy-MM-dd
+    time-zone: Asia/Shanghai
+server:
+  port: 8888
+  servlet:
+    context-path: /job
+
+
+
+mybatis:
+  mapper-locations: com/zyh/mapper/*.xml
+
+logging:
+  level:
+    com:
+      zyh:
+        mapper: debug
+
+Pagehelper:
+  helper-dialect: mysql
+
+file:
+  #注意：结尾必须是/
+  uploadFolder: e:/upload/
+  #注意：结尾必须是**
+  accessPath: /upload/**
+  #注意：结尾必须是/
+  baseUrl: http://localhost:8888/job/upload/

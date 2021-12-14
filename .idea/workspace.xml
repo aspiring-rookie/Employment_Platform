@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="970356a9-4015-48b2-8356-568de10fcdd6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\studyFiles\maven\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\studyFiles\maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pxvtgxhS6eiUpaqoZM6A3uJumD" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/zyh/front" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zyh.front" />
+      <recent name="com.zyh.framework.exception" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\studyFiles\project\workspaceForJob\job\src\main\java\com\zyh\front" />
+      <recent name="E:\studyFiles\project\workspaceForJob\job\src\main\java\com\zyh\utils" />
+      <recent name="E:\studyFiles\project\workspaceForJob\job\src\main\java\com\zyh\service" />
+      <recent name="E:\studyFiles\project\workspaceForJob\job\src\main\java\com\zyh\mapper" />
+      <recent name="E:\studyFiles\project\workspaceForJob\job\src\main\java\com\zyh\entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.JobApplication">
+    <configuration name="JobApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="job" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zyh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zyh" />
+      <option name="MAIN_CLASS_NAME" value="com.zyh.JobApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JobApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="job" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zyh.JobApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="job" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zyh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zyh" />
+      <option name="MAIN_CLASS_NAME" value="com.zyh.App" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JobApplicationTests.contextLoads" />
+        <item itemvalue="TestNG.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="970356a9-4015-48b2-8356-568de10fcdd6" name="Default Changelist" comment="" />
+      <created>1616137771363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616137771363</updated>
+      <workItem from="1616137778541" duration="3921000" />
+      <workItem from="1616201164883" duration="9603000" />
+      <workItem from="1616292105387" duration="7610000" />
+      <workItem from="1616399986562" duration="11207000" />
+      <workItem from="1616415092338" duration="975000" />
+      <workItem from="1616464649007" duration="5086000" />
+      <workItem from="1616490790123" duration="1731000" />
+      <workItem from="1616551288215" duration="17199000" />
+      <workItem from="1616722488654" duration="12291000" />
+      <workItem from="1616895483829" duration="2151000" />
+      <workItem from="1616979210628" duration="1184000" />
+      <workItem from="1617241554533" duration="11230000" />
+      <workItem from="1617586880032" duration="1320000" />
+      <workItem from="1617692347389" duration="1937000" />
+      <workItem from="1617758723074" duration="7833000" />
+      <workItem from="1617933613701" duration="7999000" />
+      <workItem from="1618016133707" duration="593000" />
+      <workItem from="1618105101555" duration="3276000" />
+      <workItem from="1618193969972" duration="1304000" />
+      <workItem from="1618280341847" duration="184000" />
+      <workItem from="1618361363634" duration="915000" />
+      <workItem from="1618450769995" duration="2164000" />
+      <workItem from="1618535922394" duration="1403000" />
+      <workItem from="1618911050127" duration="1466000" />
+      <workItem from="1619057338584" duration="943000" />
+      <workItem from="1619429940756" duration="7119000" />
+      <workItem from="1619592477752" duration="4817000" />
+      <workItem from="1619660661066" duration="5696000" />
+      <workItem from="1619747171968" duration="6340000" />
+      <workItem from="1620008334291" duration="15979000" />
+      <workItem from="1620091587435" duration="12834000" />
+      <workItem from="1620180108140" duration="2776000" />
+      <workItem from="1620530503168" duration="10528000" />
+      <workItem from="1620608770157" duration="4389000" />
+      <workItem from="1620813104673" duration="577000" />
+      <workItem from="1620872446267" duration="2837000" />
+      <workItem from="1620920567994" duration="13381000" />
+      <workItem from="1621177834534" duration="2885000" />
+      <workItem from="1621214754226" duration="2592000" />
+      <workItem from="1622447464053" duration="1159000" />
+      <workItem from="1623820733934" duration="1871000" />
+      <workItem from="1627476735366" duration="2423000" />
+      <workItem from="1627748782140" duration="220000" />
+      <workItem from="1629186703173" duration="3249000" />
+      <workItem from="1630853200675" duration="3431000" />
+      <workItem from="1634137126968" duration="1607000" />
+      <workItem from="1634221853168" duration="2289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="178" y="134" key="new project wizard" timestamp="1634224226831">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="178" y="134" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1634224226831" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zyh/controller/DictController.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
